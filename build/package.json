@@ -1,0 +1,22 @@
+{
+  "name": "thing-schema",
+  "version": "0.0.1",
+  "description": "ThingSchema node client and server",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mrmakeit/node-thingschema.git"
+  },
+  "keywords": [
+    "IoT"
+  ],
+  "author": "Blixa Morgan <blixa@projectmakeit.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrmakeit/node-thingschema/issues"
+  },
+  "homepage": "https://github.com/mrmakeit/node-thingschema#readme"
+}
