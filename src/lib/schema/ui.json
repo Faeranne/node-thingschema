@@ -1,0 +1,17 @@
+{
+	"@context":[
+		{
+			"ui":{
+				"type":"@id",
+				"@id":"ui"
+			},
+			"device":"thing/device",
+			"element":"thing/element",
+			"toggle":"ui/toggle",
+			"slider":"ui/slider",
+			"text":"ui/text",
+			"color-selector":"ui/color",
+			"dial":"ui/dial"
+		}
+	]
+}

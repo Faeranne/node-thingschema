@@ -1,4 +1,4 @@
 gulp = require 'gulp'
 require './Gulp'
 
-gulp.task 'default', ['coffee']
+gulp.task 'default', ['coffee', 'json']
